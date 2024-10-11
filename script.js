@@ -1,0 +1,1 @@
+//score system: https://kool.krister.ee/chat/tetris
